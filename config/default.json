@@ -2,5 +2,5 @@
     "appSecret": "306484674107649ff401f5553ab25f70",
     "pageAccessToken": "EAAEIqvj7FoIBAInKxZBOFIUWLqYgyeMAeGQjCo86roQTogGfiW7E3aaZAgRROVI89Y0zu1mcCCNnZCXrBHu1h4IeveZAzmhSnOjqeq70j79PnI66EE7it8TTisvRHL920KDW6gVIa0wcUHy6vHNi0VYhfFf2SYA50owbjrWNewZDZD",
     "validationToken": "2014-18698",
-    "serverURL": "https://41168efb.ngrok.io"
+    "serverURL": "https://messenger-platform-ocs.herokuapp.com/"
 }
